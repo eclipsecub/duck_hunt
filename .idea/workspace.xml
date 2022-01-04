@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c0a7b3e-9090-4ee6-bacc-3274f43367fc" name="Default Changelist" comment="" />
+    <list default="true" id="9c0a7b3e-9090-4ee6-bacc-3274f43367fc" name="Default Changelist" comment="This is the Inital Duck Hunt push - Jacob" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -21,6 +24,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="23Dddx7eGL9yBv2OLW0xGzLgqWa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,21 +45,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641272682606</updated>
-      <workItem from="1641272683654" duration="737000" />
+      <workItem from="1641272683654" duration="1281000" />
     </task>
+    <task id="LOCAL-00001" summary="This is the Inital Duck Hunt push - Jacob">
+      <created>1641273491672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641273491672</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is the Inital Duck Hunt push - Jacob" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is the Inital Duck Hunt push - Jacob" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="527" y="602" width="245" height="277" key="Github.ShareDialog" timestamp="1641273167078">
+    <state x="527" y="602" width="245" height="277" key="Github.ShareDialog" timestamp="1641273442595">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="527" y="602" width="245" height="277" key="Github.ShareDialog/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410" timestamp="1641273167078" />
+    <state x="527" y="602" width="245" height="277" key="Github.ShareDialog/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410" timestamp="1641273442595" />
+    <state x="359" y="409" key="Github.UntrackedFilesDialog" timestamp="1641273451336">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="359" y="409" key="Github.UntrackedFilesDialog/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410" timestamp="1641273451336" />
     <state x="151" y="349" key="SettingsEditor" timestamp="1641273425083">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="151" y="349" key="SettingsEditor/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410" timestamp="1641273425083" />
+    <state x="242" y="437" key="Vcs.Push.Dialog.v2" timestamp="1641273895774">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="242" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410" timestamp="1641273895774" />
   </component>
 </project>
