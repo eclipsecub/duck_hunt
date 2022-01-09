@@ -149,7 +149,7 @@ function duckClick() {
     duckClickedAmount += 1;
 
     //Gunshot noise variable
-    let gunshotNoise = new Audio('../audio/hitMarker.mp3');
+    let gunshotNoise = new Audio('audio/hitMarker.mp3');
 
     //Lowering the volume of the gunshot noise
     gunshotNoise.volume = 0.15;
@@ -181,7 +181,7 @@ buttonPlayAgain.addEventListener('click', (e) => {
 //Implementing the blood explosion gif upon duck being shot
 function bloodExplosionGif() {
     let explosionGif = document.createElement('img');
-    explosionGif.src = '../images/bloodSplash.gif?' + Math.random();
+    explosionGif.src = 'images/bloodSplash.gif?' + Math.random();
     explosionGif.style.position = 'absolute';
     explosionGif.style.pointerEvents = 'none';
     explosionGif.style.left = left;
@@ -194,7 +194,7 @@ function bloodExplosionGif() {
 //Function to animate the dog walking across the screen. Also, adds the event listener for the dog
   function dogAnimate() {
     const dogSniffing = document.createElement('img');
-    dogSniffing.src = '../images/dogSniffing.gif?' + Math.random();
+    dogSniffing.src = 'images/dogSniffing.gif?' + Math.random();
     dogSniffing.style.right = '15%';
     dogSniffing.style.bottom = '9%';
     dogSniffing.style.position = 'absolute';
@@ -215,7 +215,7 @@ function bloodExplosionGif() {
 
 function asianAnimate(){
     const asianGuy = document.createElement('img');
-    asianGuy.src = '../images/ChineseDude.png';
+    asianGuy.src = 'images/ChineseDude.png';
     asianGuy.style.position = 'absolute';
     asianGuy.style.right = "105%";
     asianGuy.style.bottom ='85%';
@@ -226,7 +226,7 @@ function asianAnimate(){
     background.appendChild(asianGuy);
     asianGuy.style.animationTimingFunction = 'linear';
     asianGuy.style.animation = 'chineseMove 12s 1';
-    const asianGuyAudio = new Audio('../audio/ChineseDudeTalking.mp3');
+    const asianGuyAudio = new Audio('audio/ChineseDudeTalking.mp3');
     asianGuyAudio.volume = 0.2;
     asianGuyAudio.play();
     setTimeout(function(){
