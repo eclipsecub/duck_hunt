@@ -33,9 +33,9 @@ const ducksMurdered = document.querySelector('.ducksMurdered');
 const gameOverText = document.querySelector('.gameOver');
 
 //Declaring game music audio's
-const mainAudio = new Audio('../audio/mainAudio.mp3');
+const mainAudio = new Audio('audio/mainAudio.mp3');
 mainAudio.volume = 0.15;
-const gameOverAudio = new Audio('../audio/gameOverAudio.mp3');
+const gameOverAudio = new Audio('audio/gameOverAudio.mp3');
 gameOverAudio.volume = 0.15;
 
 //Game settings related variables
