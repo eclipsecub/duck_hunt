@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Duck Hunt</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+</head>
+<body>
+
+<div class="background">
+
+    <img draggable="false"  class="duck" src="../images/duck.gif" alt="duck">
+
+
+</div>
+
+<footer style="background-color:transparent; font-family: Arcade Classic; font-size:1.4rem;  margin-top: -120px;"
+        class="footer is-desktop negativeM">
+    <div class="columns is-mobile">
+        <div class="column is-2">
+
+        </div>
+        <div class="timeBox box column is-one-quarter has-background-black has-text-white has-text-centered">
+            <h2>Time Remaining : <span class="timeRemaining"></span> </h2>
+        </div>
+
+        <div class="column is-2">
+
+        </div>
+
+        <div class="scoreBox box column has-background-black is-one-quarter has-text-white has-text-centered">
+            <h2 class="yourScore">Your Score : 3827</h2>
+        </div>
+        <div class="column is-2">
+
+        </div>
+    </div>
+
+</footer>
+
+<div class="endingScreen modal" style="font-family: Arcade Classic;">
+    <div class="modal-background"></div>
+    <div class="modal-content ">
+        <div class="card card-content-padding" style="background-color:transparent;">
+            <div class="gameOver has-text-danger card-content has-text-centered has-text-weight-bold has-text-white" style="font-size: 7rem">
+                GAME &nbsp;&nbsp;&nbsp;OVER
+            </div>
+                <div class="card-content has-text-centered has-text-white">
+                    <span class="playerScore"
+                          style="font-size: 3rem">YOUR &nbsp;SCORE&nbsp;&nbsp;: &nbsp;&nbsp; <span class="yourScore"></span> </span>
+                </div>
+                <div class="card-content has-text-centered has-text-white" style="background-color:transparent;">
+                    <span style="font-size: 2.5rem">TO TA L &nbsp;DUCKS &nbsp;MURDERED&nbsp;&nbsp;: &nbsp;&nbsp;<span class="ducksMurdered"></span></span>
+                </div>
+
+
+                <p class="card-footer-item p-6" style="background-color:transparent;">
+                    <button class="buttonPlayAgain button is-large is-primary is-light"
+                            style="font-family:'Arcade Classic';">Play&nbsp;&nbsp;&nbsp;&nbsp;again
+                    </button>
+                </p>
+
+        </div>
+
+    </div>
+</div>
+
+    <script src="../script.js"></script>
+</body>
+
+</html>

@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c0a7b3e-9090-4ee6-bacc-3274f43367fc" name="Default Changelist" comment="This is the Inital Duck Hunt push - Jacob">
+    <list default="true" id="9c0a7b3e-9090-4ee6-bacc-3274f43367fc" name="Default Changelist" comment="Added image folder and script file">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/ChineseDudeTalking.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/Gunshot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/gameOverAudio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/hitMarker.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/mainAudio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/ARCADECLASSIC.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ChineseDude.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAME OVER.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dogSniffing.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/duck.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/duck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/infiniteLoopBlood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/duck_hunt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/duck_hunt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
+    <list id="749abf40-a2c5-40b3-90a5-5f5268c06b07" name="Changes by Al" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +57,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -28,6 +70,9 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="23Dddx7eGL9yBv2OLW0xGzLgqWa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,18 +82,34 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/audio" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lolma\WebstormProjects\Web Developer Bootcamp\JS Course\duck_hunt\audio" />
+      <recent name="C:\Users\lolma\WebstormProjects\Web Developer Bootcamp\JS Course\duck_hunt\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lolma\WebstormProjects\Web Developer Bootcamp\JS Course\duck_hunt\images" />
+      <recent name="C:\Users\lolma\WebstormProjects\Web Developer Bootcamp\JS Course\duck_hunt\views" />
+      <recent name="C:\Users\lolma\WebstormProjects\Web Developer Bootcamp\JS Course\duck_hunt\fonts" />
+      <recent name="C:\Users\lolma\WebstormProjects\Web Developer Bootcamp\JS Course\duck_hunt\duck" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,6 +121,22 @@
       <option name="presentableId" value="Default" />
       <updated>1641272682606</updated>
       <workItem from="1641272683654" duration="1281000" />
+      <workItem from="1641276240926" duration="626000" />
+      <workItem from="1641276879314" duration="436000" />
+      <workItem from="1641352272730" duration="8000" />
+      <workItem from="1641357399514" duration="4935000" />
+      <workItem from="1641422491244" duration="3558000" />
+      <workItem from="1641426688253" duration="35000" />
+      <workItem from="1641426784127" duration="1467000" />
+      <workItem from="1641428474909" duration="1305000" />
+      <workItem from="1641430813970" duration="308000" />
+      <workItem from="1641431131889" duration="2887000" />
+      <workItem from="1641436576018" duration="287000" />
+      <workItem from="1641443523903" duration="3364000" />
+      <workItem from="1641513601639" duration="18579000" />
+      <workItem from="1641574702297" duration="13155000" />
+      <workItem from="1641674084447" duration="7511000" />
+      <workItem from="1641760032115" duration="109000" />
     </task>
     <task id="LOCAL-00001" summary="This is the Inital Duck Hunt push - Jacob">
       <created>1641273491672</created>
@@ -68,17 +145,34 @@
       <option name="project" value="LOCAL" />
       <updated>1641273491672</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added image folder and script file">
+      <created>1641275554660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641275554660</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="This is the Inital Duck Hunt push - Jacob" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is the Inital Duck Hunt push - Jacob" />
+    <MESSAGE value="Added image folder and script file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added image folder and script file" />
   </component>
 </project>

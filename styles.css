@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Arcade Classic';
+    src: url("fonts/ARCADECLASSIC.TTF");
+}
+
+
+body,html{
+    height: 100%;
+    margin: 0;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    overflow: hidden;
+}
+
+.background{
+    background-image: url("images/background.png");
+    /* Full height */
+    height: 100%;
+    width: 100%;
+
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.negativeM{
+
+}
+
+
+.duck{
+    height: 100px;
+    width: auto;
+}
+
+.hidden{
+    visibility: hidden;
+    display: none;
+}
+
+.dog{
+
+}
+
+@keyframes dogMove{
+    0%{right: 0%}
+    21%{right: 35%}
+    34%{right:35%}
+    56%{right:75%}
+    67%{right:75%}
+    100%{right:100%}
+}
+
+@keyframes chineseMove{
+    0%{right: 103%}
+    25%{right: 94%}
+    70%{right: 94%}
+    100%{right: 103%}
+}

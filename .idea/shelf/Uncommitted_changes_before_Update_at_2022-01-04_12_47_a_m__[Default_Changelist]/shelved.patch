@@ -1,0 +1,92 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"9c0a7b3e-9090-4ee6-bacc-3274f43367fc\" name=\"Default Changelist\" comment=\"This is the Inital Duck Hunt push - Jacob\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"JsFlowSettings\">\r\n    <service-enabled>true</service-enabled>\r\n    <exe-path />\r\n    <other-services-enabled>true</other-services-enabled>\r\n    <auto-save>true</auto-save>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"23Dddx7eGL9yBv2OLW0xGzLgqWa\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"run.prettier.on.save\" value=\"true\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"9c0a7b3e-9090-4ee6-bacc-3274f43367fc\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1641272682606</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1641272682606</updated>\r\n      <workItem from=\"1641272683654\" duration=\"1281000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"This is the Inital Duck Hunt push - Jacob\">\r\n      <created>1641273491672</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1641273491672</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"This is the Inital Duck Hunt push - Jacob\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"This is the Inital Duck Hunt push - Jacob\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"527\" y=\"602\" width=\"245\" height=\"277\" key=\"Github.ShareDialog\" timestamp=\"1641273442595\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"527\" y=\"602\" width=\"245\" height=\"277\" key=\"Github.ShareDialog/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410\" timestamp=\"1641273442595\" />\r\n    <state x=\"359\" y=\"409\" key=\"Github.UntrackedFilesDialog\" timestamp=\"1641273451336\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"359\" y=\"409\" key=\"Github.UntrackedFilesDialog/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410\" timestamp=\"1641273451336\" />\r\n    <state x=\"151\" y=\"349\" key=\"SettingsEditor\" timestamp=\"1641273425083\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"151\" y=\"349\" key=\"SettingsEditor/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410\" timestamp=\"1641273425083\" />\r\n    <state x=\"242\" y=\"437\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1641273895774\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"242\" y=\"437\" key=\"Vcs.Push.Dialog.v2/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410\" timestamp=\"1641273895774\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 550de748e9f62e1f578366eddfc08a7e52cabfe6)
++++ .idea/workspace.xml	(date 1641275250312)
+@@ -1,7 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="9c0a7b3e-9090-4ee6-bacc-3274f43367fc" name="Default Changelist" comment="This is the Inital Duck Hunt push - Jacob" />
++    <list default="true" id="9c0a7b3e-9090-4ee6-bacc-3274f43367fc" name="Default Changelist" comment="Test for james - Jacob (got my swag on)">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -33,6 +35,12 @@
+     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="node.js.detected.package.eslint" value="true" />
++    <property name="node.js.detected.package.tslint" value="true" />
++    <property name="node.js.path.for.package.eslint" value="project" />
++    <property name="node.js.path.for.package.tslint" value="project" />
++    <property name="node.js.selected.package.eslint" value="(autodetect)" />
++    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+     <property name="run.prettier.on.save" value="true" />
+     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+@@ -45,7 +53,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1641272682606</updated>
+-      <workItem from="1641272683654" duration="1281000" />
++      <workItem from="1641272683654" duration="2404000" />
+     </task>
+     <task id="LOCAL-00001" summary="This is the Inital Duck Hunt push - Jacob">
+       <created>1641273491672</created>
+@@ -54,7 +62,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1641273491672</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="This is the Inital Duck Hunt push - Jacob">
++      <created>1641274095821</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1641274095821</updated>
++    </task>
++    <task id="LOCAL-00003" summary="Test for james - Jacob (got my swag on)">
++      <created>1641274892402</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1641274892402</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -62,7 +84,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="This is the Inital Duck Hunt push - Jacob" />
+-    <option name="LAST_COMMIT_MESSAGE" value="This is the Inital Duck Hunt push - Jacob" />
++    <MESSAGE value="Test for james - Jacob (got my swag on)" />
++    <option name="LAST_COMMIT_MESSAGE" value="Test for james - Jacob (got my swag on)" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="527" y="602" width="245" height="277" key="Github.ShareDialog" timestamp="1641273442595">
+@@ -77,9 +100,13 @@
+       <screen x="0" y="0" width="2560" height="1410" />
+     </state>
+     <state x="151" y="349" key="SettingsEditor/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410" timestamp="1641273425083" />
+-    <state x="242" y="437" key="Vcs.Push.Dialog.v2" timestamp="1641273895774">
++    <state x="242" y="437" key="Vcs.Push.Dialog.v2" timestamp="1641274894006">
+       <screen x="0" y="0" width="2560" height="1410" />
+     </state>
+-    <state x="242" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410" timestamp="1641273895774" />
++    <state x="242" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410" timestamp="1641274894006" />
++    <state x="467" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1641275250297">
++      <screen x="0" y="0" width="2560" height="1410" />
++    </state>
++    <state x="467" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1410/2560.929.1920.1050@0.0.2560.1410" timestamp="1641275250297" />
+   </component>
+ </project>
+\ No newline at end of file
