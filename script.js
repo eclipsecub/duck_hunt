@@ -31,6 +31,7 @@ const yourScore = document.querySelector('.yourScore');
 const timeRemaining = document.querySelector('.timeRemaining');
 const ducksMurdered = document.querySelector('.ducksMurdered');
 const gameOverText = document.querySelector('.gameOver');
+const yourFinalScore = document.querySelector('.yourFinalScore');
 
 //Declaring game music audio's
 const mainAudio = new Audio('audio/mainAudio.mp3');
@@ -50,6 +51,7 @@ let timer = timeLimit, seconds;
 //boolean, if a duck has been clicked
 let duckClicked = false;
 
+//Total number of ducks clicked
 let duckClickedAmount = 0;
 
 //Creating function that randomizes the duck's position
@@ -73,6 +75,8 @@ function endGame() {
     gameOverAudio.play();
     //stopping the timer
     stopTimer();
+    //Listing player's final score
+    yourFinalScore.textContent = playerScore.textContent;
     //Adds the total amount of ducks that got fucking eviscerated
     ducksMurdered.textContent = duckClickedAmount;
     //Bringing up the ending screen
@@ -94,7 +98,8 @@ function startGame() {
     modal.classList.remove('is-active');
     // Remove all invisible bloodsplat elements LETS GOOOOOOOO
     document.querySelectorAll('.explosionGif').forEach(e => e.remove());
-    //TBI - resets score
+    //resetting score
+    playerScore.textContent = '0';
 
     //resets amount of ducks clicked
     duckClickedAmount = 0;
@@ -147,6 +152,9 @@ function duckClick() {
 
     // Records the amount of ducks clicked
     duckClickedAmount += 1;
+
+    //Increases the player score
+    playerScore.textContent = Number(playerScore.textContent) + 156;
 
     //Gunshot noise variable
     let gunshotNoise = new Audio('audio/hitMarker.mp3');
